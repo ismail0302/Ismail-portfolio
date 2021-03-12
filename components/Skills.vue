@@ -51,59 +51,59 @@ export default {
     return {
       skills: [
         {
-          title: 'Vue.js and Nuxt.js',
+          title: 'jquery,React.js and Next.js',
           rating: 5,
           items: [
-            { text: 'Nuxt.js core maintainer ♥️️', strong: true },
-            { text: 'Vue.js enthusiast' }
+            { text: '', strong: true },
+            { text: 'React.js enthusiast' }
           ]
         },
         {
           title: 'Javascript',
           rating: 4,
           items: [
-            { text: 'Express.js', strong: true },
+            { text: 'Express.js , node js', strong: true },
             { text: 'ES6', strong: true },
             { text: 'Writing packages' },
             { text: 'Babel' },
-            { text: 'Webpack' }
+            { text: '' }
           ]
         },
         {
           title: 'PHP',
           rating: 4,
           items: [
-            { text: 'Laravel', strong: true },
-            { text: 'Wordpress' },
-            { text: 'Drupal' }
+            { text: '', strong: true },
+            { text: 'Laravel' },
+            { text: '' }
           ]
         },
         {
-          title: 'VC & CI',
+          title: 'Sql,Mysql & Mongodb',
           rating: 4,
           items: [
-            { text: 'Git', strong: true },
-            { text: 'Travis CI' }
+            { text: '', strong: true },
+            { text: '' }
           ]
         },
         {
-          title: 'Methodologies',
-          rating: 4,
-          items: [
-            { text: 'TDD', strong: true },
-            { text: 'Clean Code' },
-            { text: 'Agile' },
-            { text: 'Scrum' }
-          ]
-        },
-        {
-          title: 'Python',
+          title: 'Json,API,',
           rating: 3,
           items: [
-            { text: 'flask', strong: true },
-            { text: 'plotly' },
-            { text: 'scikit-learn' },
-            { text: 'pandas' }
+            { text: '', strong: true },
+            { text: 'Getting data from API' },
+            { text: '' },
+            { text: '' }
+          ]
+        },
+        {
+          title: 'Bootstrap and Material ui',
+          rating: 3,
+          items: [
+            { text: '', strong: true },
+            { text: 'Clear look' },
+            { text: 'ui design' },
+            { text: 'passionable' }
           ]
         }
       ]

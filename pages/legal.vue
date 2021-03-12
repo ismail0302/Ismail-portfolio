@@ -3,43 +3,18 @@
   <section class="flex flex-col flex-wrap items-center bg-gray-100 py-8">
     <div class="justify-around items-center w-5/6 md:w-1/2 mx-auto prose">
       <h1>Legal Disclosure</h1>
-      Information in accordance with section 5 TMG<br>
-      Developmint GbR<br>
-      Corotweg 15<br>
-      04289 Leipzig<br>
-      <h2>Represented by</h2>
-      Alexander Lichter
-      <br>
-      Max Langer
-      <h3>Personally liable partner</h3>
-      Alexander Lichter
-      <br>
-      Max Langer
-      <h2>Contact</h2>
-      E-Mail: <a href="mailto:hello@lichter.io">
-        hello@lichter.io
+        <h2>Contact</h2>
+      E-Mail: <a href="mailto:18mdswe013@uetmardan.edu.pk">
+        18mdswe013@uetmardan.edu.pk
       </a>
       <br>
-      Website: <a href="https://www.lichter.io/" target="_blank" rel="noopener">
-        www.lichter.io
-      </a><br>
-      Website: <a href="https://www.developmint.de/" target="_blank" rel="noopener">
-        www.developmint.de
-      </a>
+      Phone No: +923029463719
       <br>
-      <h2>VAT number</h2>
-      VAT identification number in accordance with section 27 a of the German VAT
-      act
-      <br>
-      DE301268038
-      <br>
-      <h2>Person responsible for content in accordance with 55 Abs. 2 RStV</h2>
-      Alexander Lichter<br>
       <h2>Indication of source for images and graphics</h2>
       <a href="http://vuejs.org/" rel="noreferrer noopener nofollow" target="_blank">
-        Vue.js
+        React.js
       </a><br>
-      <a href="http://laravel.com/" rel="noreferrer noopener nofollow" target="_blank">
+      <a href="http://react.com/" rel="noreferrer noopener nofollow" target="_blank">
         Laravel
       </a><br>
       <a href="https://nodejs.org/" rel="noreferrer noopener nofollow" target="_blank">
@@ -48,22 +23,15 @@
       <a href="https://getbootstrap.com/" rel="noreferrer noopener nofollow" target="_blank">
         Bootstrap
       </a><br>
-      <a href="http://tailwindcss.com/" rel="noreferrer noopener nofollow" target="_blank">
-        Tailwind
+      <a href="https://reactnative.dev/" rel="noreferrer noopener nofollow" target="_blank">
+        React native
       </a><br>
-      <a href="https://git-scm.com/" rel="noreferrer noopener nofollow" target="_blank">
-        Git-scm
+      <a href="https://www.mongodb.com/" rel="noreferrer noopener nofollow" target="_blank">
+        Mongodb
       </a><br>
-      <a href="https://webpack.js.org/" rel="noreferrer noopener nofollow" target="_blank">
-        Webpack
+      <a href="https://www.mysql.com/" rel="noreferrer noopener nofollow" target="_blank">
+        mysql
       </a><br>
-      <a href="https://travis-ci.org/" rel="noreferrer noopener nofollow" target="_blank">
-        Travis CI
-      </a><br>
-      <a href="http://fontawesome.io/icons/" rel="noreferrer noopener nofollow" target="_blank">
-        FontAwesome
-      </a><br>
-      <br><br>
       <h2>Disclaimer</h2>
       <br>
       <b>Accountability for content</b>
@@ -77,8 +45,7 @@
       saved information of third parties, or investigate circumstances pointing to
       illegal activity. Our obligations to
       remove or block the use of information under generally applicable laws remain
-      unaffected by this as per &sect;&sect;
-      8 to 10 of the Telemedia Act (TMG).
+      unaffected.
       <br>
       <br>
       <b>Accountability for links</b>
@@ -92,7 +59,7 @@
       <br>
       <b>Copyright</b>
       <br>
-      Our web pages and their contents are subject to German copyright law. Unless
+      Our web pages and their contents are subject to Pakistani copyright law. Unless
       expressly permitted by law
       (&sect; 44a et seq. of the copyright law), every form of utilizing,
       reproducing or processing works subject to
@@ -108,26 +75,15 @@
       <br>
       <ul>
         <li>
-          Source code of this page (can be found on
-          <a href="https://github.com/manniL/lichter.io" rel="noreferrer noopener nofollow" target="_blank">GitHub</a>)
-          -
+          <a href="https://github.com/manniL/lichter.io" rel="noreferrer noopener nofollow" target="_blank"></a>
           <a href="https://raw.githubusercontent.com/manniL/lichter.io/master/LICENSE"
              rel="noreferrer noopener nofollow"
              target="_blank"
           >
-            MIT
           </a>
         </li>
-        <li>
-          Text, journalistic and other written content: Alexander Lichter -
-          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-             rel="noreferrer noopener nofollow"
-             target="_blank"
-          >
-            CC-BY-NC-SA 4.0
-          </a>
-        </li>
-        <li>Text on the legal notice and privacy page: Alexander Lichter - All rights reserved</li>
+
+        <li>Text on the legal notice and privacy page - All rights reserved</li>
       </ul>
     </div>
   </section>

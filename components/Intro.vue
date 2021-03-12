@@ -15,16 +15,16 @@
       </picture>
       <div class="mt-4">
         <h1 class="font-400 text-2xl md:text-3xl">
-          Alexander Lichter
+          Muhammad ismail
         </h1>
         <h2 class="text-gray-700 -mt-1 text-base md:text-xl">
-          Developer &bull; Founder &bull; Speaker
+          Web   Developer
         </h2>
       </div>
       <div class="flex mt-4">
         <a
           class="text-center text-gray-600 no-underline shadow-lg bg-gray-400 border border-gray-400 hover:border-gray-500 hover:shadow-xl px-3 py-2 m-2 rounded hover:text-black"
-          href="https://github.com/manniL"
+          href="https://github.com/ismail0302"
           rel="noreferrer noopener"
           target="_blank"
           title="My GitHub account"
@@ -36,7 +36,7 @@
         </a>
         <a
           class="text-center text-gray-600 no-underline shadow-lg bg-gray-400 border border-gray-400 hover:border-gray-500 hover:shadow-xl px-3 py-2 m-2 rounded hover:text-indigo-600"
-          href="mailto:hello@lichter.io"
+          href="mailto:18mdswe013@uetmardan.edu.pk"
           rel="noreferrer noopener"
           title="Send me an e-mail!"
           @click.native="trackIconClick('mail')"
@@ -48,7 +48,7 @@
         </a>
         <a
           class="text-center text-gray-600 no-underline shadow-lg bg-gray-400 border border-gray-400 hover:border-gray-500 hover:shadow-xl px-3 py-2 m-2 rounded hover:text-green-600"
-          href="tel:+4917670625208"
+          href="tel:+923029463719"
           rel="noreferrer noopener"
           title="Hotline Bling?"
           @click.native="trackIconClick('phone')"
@@ -59,7 +59,7 @@
         </a>
         <a
           class="text-center text-gray-600 no-underline shadow-lg bg-gray-400 border border-gray-400 hover:border-gray-500 hover:shadow-xl px-3 py-2 m-2 rounded hover:text-blue-500"
-          href="https://twitter.com/TheAlexLichter"
+          href="https://twitter.com/Muhamma80149441"
           rel="noreferrer noopener"
           target="_blank"
           title="I'm on Twitter as well"

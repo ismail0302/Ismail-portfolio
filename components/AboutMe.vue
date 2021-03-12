@@ -5,15 +5,14 @@
         Hey you!
       </p>
       <p class="text-base md:text-lg text-gray-700 leading-normal">
-        I'm <span class="text-gray-900" v-text="'Alex'" />, a guy in his twenties living in
-        <span class="text-gray-900" v-text="'Leipzig, Germany'" />. Already at young age, computers impressed me
-        so much that I wanted to know more about them. Now, I'm a self-taught developer who runs his
-        <span class="text-gray-900" v-text="'own company'" /> and studies CS in the meantime.
+        I'm <span class="text-gray-900" v-text="'Muhammad ismail'" />, a guy of software engineering living in
+        <span class="text-gray-900" v-text="'kpk, Pakistan'" />. i am at young age, computer impress me
+        so much that I wanted to know more about them. Now, I'm a self-taught developer and student of software engineering in uet mardan.
         <br><br>
-        When developing web apps, I mostly rely on the <span class="text-gray-900" v-text="'Laravel'" />
+        When developing web apps, I mostly rely on the <span class="text-gray-900" v-text="'node js'" />, <span class="text-gray-900" v-text="'Laravel'" />
         framework for the backend.
-        In terms of frontend, <span class="text-gray-900" v-text="'Nuxt.js'" /> is my favorite choice,
-        often in combination with a great CSS framework called <span class="text-gray-900" v-text="'TailwindCSS'" />.
+        In terms of frontend, <span class="text-gray-900" v-text="'React.js'" />,<span class="text-gray-900" v-text="'Next.js'" /> and <span class="text-gray-900" v-text="'Gatsby.js'" /> are my favorite choice,
+        often in combination with a great CSS framework called <span class="text-gray-900" v-text="'Bootsrap'" />,<span class="text-gray-900" v-text="'Material ui'" />.
         <br><br>
         Can't see parts of your tech-stack on that list? <span class="text-gray-900" v-text="'Don\'t worry!'" />
         I use the appropriate tech stack that fits the project's specifications and requirements.
